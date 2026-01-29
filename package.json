@@ -1,0 +1,32 @@
+{
+    "name": "com.bread-thief.easy-dungeon-generator",
+    "displayName": "Easy Dungeon Generator",
+    "version": "1.0.0",
+    "unity": "2021.3",
+    "description": "Procedural dungeon generator with 2D/3D support",
+    "keywords": [
+        "dungeon",
+        "procedural",
+        "generator",
+        "2D",
+        "3D"
+    ],
+    "category": "Tools",
+    "author": {
+        "name": "Bread Thief",
+        "url": "https://github.com/bread-thief"
+    },
+    "dependencies": {},
+    "samples": [
+        {
+            "displayName": "2D Example",
+            "description": "2D dungeon generation example",
+            "path": "Examples~/2DExample"
+        },
+        {
+            "displayName": "3D Example",
+            "description": "3D dungeon generation example",
+            "path": "Examples~/3DExample"
+        }
+    ]
+}
