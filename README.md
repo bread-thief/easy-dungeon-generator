@@ -1,7 +1,7 @@
 # Easy Dungeon Generator
 
 [![Unity Version](https://img.shields.io/badge/Unity-2021.3+-blue.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 
 Professional procedural dungeon generator for Unity with 2D/3D support.
 
@@ -45,5 +45,6 @@ Add this to your `Packages/manifest.json`:
 - .NET 4.x / .NET Standard 2.1
 
 ## 📄 License
+
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
